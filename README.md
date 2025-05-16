@@ -32,7 +32,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/HighTide.git
+git clone https://github.com/cauaenzo/HighTide.git
 
 # Entre na pasta do projeto
 cd HighTide
